@@ -8,40 +8,39 @@ Let's discover **Paybae in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **creating a new [_Vendor Account_](https://paybae-dashboard.vercel.app)**.
 
-Or **try Paybae immediately** with **[paybae.io](https://paybae.io)**.
+Or **try Paybae immediately** with **[Paybae Demo Store](https://paybae-demo-store.vercel.app)**.
 
 ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## How Does it Work?
 
-Generate a new Docusaurus site using the **classic template**.
+Paybae adopts a simple approach for your **crypto migration**.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+Simply register on the **Paybae dashboard** as a vendor, and **start ingerating**.
 
 ```bash
-cd my-website
-npm run start
+https://paybae-dashboard.vercel.app
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Let's keep it simple! 🚀🚀🚀
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## Generate your Dev Keys
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+When you are ready to move forward, you will need to generate your **Paybae Dev Keys**.
+
+Head over to the `/developers` page on the **Paybae dashboard**.
+
+```bash
+https://paybae-dashboard.vercel.app/developers
+```
+
+First time users will be asked to **create a new Dev Key Pair**.
+
+Click the `Create Dev Keys` button.
+
+You should see your **API Key** and **API Secret**.
